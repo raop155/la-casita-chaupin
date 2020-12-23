@@ -23,7 +23,7 @@ npm install npm@latest -g
 1. Clone the repo
 
 ```
-git clone https://github.com/raop155/raop-portfolio.git
+git clone https://github.com/raop155/la-casita-chaupin.git
 ```
 
 2. Run npm install inside project root
